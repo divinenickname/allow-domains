@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Предложить домен или сервис
-    url: https://github.com/itdoginfo/allow-domains/discussions/categories/general
+    url: https://github.com/divinenickname/allow-domains/discussions/categories/general
     about: Добавление доменов и сервисов производится через Discussions, а не Issues.
   - name: Вопрос по использованию
     url: https://t.me/itdogchat
